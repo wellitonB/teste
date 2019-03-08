@@ -1,0 +1,40 @@
+.fones{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #b52506;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.midias{
+    font-family: mostserrat, verdana, 'trebuchet ms' , sans-serif;
+    color: #b52506;
+    float: right;
+    display: block;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.bg_menu{
+    background: #f5bb05;
+}
+.menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    color: white;
+    font-weight: 800;
+    margin-right: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.banner{
+    width: 100%;
+}
+.serviços{
+    font-family: mostserrat, verdana, 'trebuchet ms' , sans-serif;
+    font-size: 32px;
+    color: white;
+
+
+}
